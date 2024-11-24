@@ -19,4 +19,4 @@ end
 
 threads.each(&:join)
 
-puts "Total time: #{Time.now - start_time} seconds"
+puts "Total Time: #{Time.now - start_time} seconds"
